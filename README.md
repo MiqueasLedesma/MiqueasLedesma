@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miqueas Ledesma</h1>
 <h3 align="center">Fullstack developer</h3>
 
-- 🌱 I’m currently learning **MongoDB, mongoose**
+- 🌱 I’m currently learning **MongoDB, mongoose, Docker and more**
 
 - 📫 How to reach me **miqueasledesmadev@gmail.com**
 
